@@ -9,17 +9,21 @@ integration with the university's knowledge base and FAQ section, and even a sen
 empathetic and thoughtful responses. We are confident that our ChatBot will greatly enhance the student experience at 
 KIIT University and revolutionize the way students get the information they need.<br />
 
-Simple chatbot implementation with PyTorch.<br/>
-
-The implementation is straightforward with a Feed Forward Neural net with 2 hidden layers.
 # Software Used:-
   1.Python <br />
   2.Pytorch
 # Editor Used:-
   VS Code Editor
+# Neural Network:-
+Simple chatbot implementation with PyTorch.<br/>
+The implementation is straightforward with a Feed Forward Neural net with 2 hidden layers.
+<img width="343" alt="image" src="https://user-images.githubusercontent.com/76215048/232753632-d2401e88-441f-4cf1-9421-9dcb9d1bd947.png">
+
 # References:-
-https://github.com/patrickloeber/pytorch-chatbot
-https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
+https://github.com/patrickloeber/pytorch-chatbot<br />
+https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077<br />
+https://kiit.ac.in/<br />
+
 
 
 
