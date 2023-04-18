@@ -7,11 +7,19 @@ that allows students to easily chat and get their questions answered.
 Our ChatBot goes beyond simple Q&A and utilizes advanced features like personalized responses based on student data, 
 integration with the university's knowledge base and FAQ section, and even a sentiment analysis module to provide 
 empathetic and thoughtful responses. We are confident that our ChatBot will greatly enhance the student experience at 
-KIIT University and revolutionize the way students get the information they need.
-# Software used
-  1.Python
+KIIT University and revolutionize the way students get the information they need.<br />
+
+Simple chatbot implementation with PyTorch.<br/>
+
+The implementation is straightforward with a Feed Forward Neural net with 2 hidden layers.
+# Software Used:-
+  1.Python <br />
   2.Pytorch
-# Editor used
+# Editor Used:-
   VS Code Editor
+# References:-
+https://github.com/patrickloeber/pytorch-chatbot
+https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
+
 
 
