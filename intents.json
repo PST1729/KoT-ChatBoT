@@ -687,10 +687,26 @@
 
               ],
               "responses": [
-                    "M.Tech fee in KIIT is Rs.1,17,000/- per semester, there are complete 8 semesters in 4 years. For more Information visit:- https://kiit.ac.in/brochure/ "
+                    "M.Tech fee in KIIT is Rs.1,17,000/- per semester, there are complete 4 semesters in 2 years. For more Information visit:- https://kiit.ac.in/brochure/ "
 
               ]
-        }
+        },
+        {
+            "tag": "Professor",
+            "patterns": [
+                  "Who is Himansu Das?",
+                  "Himanshu Das profile?",
+                  "Himanshu Das sir?",
+                  "Prof Himansu Das sir?",
+                  "who is Prof Himanshu Das in Kiit",
+                  "who is Prof Himansu Das from Computer Science? "
+
+            ],
+            "responses": [
+                  "Himansu Das is working as an as Associate Professor in the School of Computer Engineering, KIIT University, Bhubaneswar, Odisha, India. He has received his B. Tech and M. Tech degree from Biju Pattnaik University of Technology (BPUT), Odisha, India. He has published several research papers in various international journals and conferences. He has also edited several books of international repute. He is associated with different international bodies as Editorial/Reviewer board member of various journals and conferences. He is proficient in the field of Computer Science Engineering and served as an organizing chair, publicity chair and act as member of program committees of many national and international conferences. He is also associated with various educational and research societies like IACSIT, ISTE, UACEE, CSI, IET, IAENG, ISCA etc., His research interest includes in the field of Computing, Networking, and Machine Learning. He has also 10 years of teaching and research experience in different engineering colleges.For More Information about Sir, vist :- https://cse.kiit.ac.in/profiles/himansu-das/"
+
+            ]
+      }
 
 
 
