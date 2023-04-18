@@ -9,8 +9,8 @@ integration with the university's knowledge base and FAQ section, and even a sen
 empathetic and thoughtful responses. We are confident that our ChatBot will greatly enhance the student experience at 
 KIIT University and revolutionize the way students get the information they need.
 # Software used
-  Python
-  Pytorch
+  1.Python
+  2.Pytorch
 # Editor used
   VS Code Editor
 
