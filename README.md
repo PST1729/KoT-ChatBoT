@@ -18,6 +18,7 @@ KIIT University and revolutionize the way students get the information they ne
 # Neural Network:-
 Simple chatbot implementation with PyTorch.<br/>
 The implementation is straightforward with a Feed Forward Neural net with 2 hidden layers.
+
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/76215048/232753632-d2401e88-441f-4cf1-9421-9dcb9d1bd947.png">
 
 # References:-
